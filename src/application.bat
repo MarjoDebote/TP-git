@@ -1,4 +1,7 @@
-### application.bat - 201x - deboté ###
-echo "Build : 10:00"
+﻿### application.bat - 201x - deboté ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
 echo "Copyright company - 201x"
-echo "version 1.1"
+echo "version ${version}"

@@ -1,4 +1,4 @@
-﻿### application.bat - 201x - deboté ###
+﻿### application.bat - 201x - Quentin Le Mesnager###
 <<<<<<< HEAD
 echo "Build : 10:00"
 echo "Copyright company - 201x"

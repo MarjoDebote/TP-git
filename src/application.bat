@@ -1,4 +1,4 @@
-﻿### application.bat - 201x - Quentin Le Mesnager###
+﻿### application.bat - 201x - Quentin LeMesnager CPDN 02###
 <<<<<<< HEAD
 echo "Build : 10:00"
 echo "Copyright company - 201x"
